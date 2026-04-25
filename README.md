@@ -1,14 +1,24 @@
-## Instagram Smart Assistant (ISA)
+🤖 Instagram Smart Assistant (ISA)
 
-A system design project proposing an AI-powered assistant for Instagram to enhance user experience through personalization, automation, and content filtering.
+A project focused on designing a smart assistant concept to improve user experience within the Instagram platform.
 
-The project includes:
-- System requirements analysis
-- AI-based recommendation design
-- User experience improvements
-- Security and architecture planning
+The work included:
 
-**Focus Areas:** NLP, AI-driven recommendations, system design, user experience
+* Analyzing limitations in the current system
+* Defining system requirements (functional & non-functional)
+* Designing system architecture and user flows
+* Creating personas and user journey maps
+* Preparing full project documentation
 
-**Project Report:**
-https://drive.google.com/file/d/1JPx9XAGxJ-b0wlaUsouySmiHWV1-DiQY/view?usp=drivesdk
+📌 Key Features:
+
+* Smart interaction with messages
+* Content suggestions based on user behavior
+* Content filtering for safer experience
+* Support for text and voice interaction
+
+📊 Outcome:
+
+* A structured system design for an AI-based assistant
+* Improved understanding of user interaction in social media systems
+* Focus on personalization and better content experience
